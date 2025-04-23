@@ -39,7 +39,7 @@ const items = [
     category: 'biler',
     title: 'Toyota Supra',
     description: 'En sportsbil med ikonisk status.',
-    image: './website/public/images/supra.jpg',
+    image: '/website/public/images/supra.jpg',
   },
 ];
 
