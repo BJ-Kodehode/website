@@ -32,7 +32,7 @@ const items = [
     category: 'biler',
     title: 'Tesla Model S',
     description: 'Elektrisk luksus med lang rekkevidde.',
-    image: '/website//public/images/tesla.jpg',
+    image: '/website/public/images/tesla.jpg',
   },
   {
     ref: 'toyota-supra',
